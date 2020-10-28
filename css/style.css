@@ -166,6 +166,7 @@ a.text-dark:focus {
 
 .text-muted {
   color: #8492a6 !important;
+  text-align: left;
 }
 
 a.text-muted:hover,
