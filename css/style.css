@@ -2316,6 +2316,7 @@ p {
 #topnav .logo {
   float: left;
   color: #3c4858 !important;
+  margin-right: 4px;
 }
 
 #topnav .logo .l-dark {
@@ -2930,9 +2931,9 @@ p {
     display: none;
   }
   #topnav .buy-menu-btn {
-    display: block !important;
-    margin: 0 10px;
-    padding: 10px 20px;
+    display: flex !important;
+    padding: 13px 7px;
+    margin-left: 3px;
   }
   #topnav .navbar-toggle .lines {
     margin-right: 0 !important;
